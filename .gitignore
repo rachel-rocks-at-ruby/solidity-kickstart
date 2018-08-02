@@ -5,7 +5,7 @@
 /coverage
 
 # production
-/build
+/ethereum/build
 
 # misc
 .DS_Store
